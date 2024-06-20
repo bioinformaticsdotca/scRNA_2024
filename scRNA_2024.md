@@ -48,17 +48,20 @@ Coming soon!
 *<font color="#827e9c">Trevor Pugh</font>*
 
 [Module 1 Lecture Slides](https://drive.google.com/file/d/1ZvUYmpS_HD5wJWy-O_Ot7yaeUQHs1OHj/view?usp=drive_link)  
+[Module 1 Lecture Recording](https://youtu.be/fYxv9y2UyUM)  
 
 ## Module 2
 
 *<font color="#827e9c">Tallulah Andrews</font>*
 
+[Module 2 Lecture Recording](https://youtu.be/X9cX-b3x_50)  
 [Module 2 Lecture Slides](https://docs.google.com/presentation/d/1WX-3SEAgsYNGIyr0CNWMq7raHROYOb3n/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
 
 ## Module 3
 
 *<font color="#827e9c">Tallulah Andrews</font>*
 
+[Module 3 Lecture Recording](https://youtu.be/KBIJXR0MPUc)  
 [Module 3 Lecture Slides](https://docs.google.com/presentation/d/1kbuNPb4M_3pZklcpJRpkPF4ULvB-DYWH/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
 
 <!-- ## Module 4
