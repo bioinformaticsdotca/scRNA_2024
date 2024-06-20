@@ -37,4 +37,14 @@ Coming soon!
 
 # Course Materials
 
-Coming soon!
+# Day 1 <a id="day1"></a>
+
+##  Welcome
+
+*<font color="#827e9c">Nia Hughes</font>*
+
+## Module 1
+
+*<font color="#827e9c">Trevor Pugh</font>*
+
+[Module 1 Lecture Slides](https://drive.google.com/file/d/1ZvUYmpS_HD5wJWy-O_Ot7yaeUQHs1OHj/view?usp=drive_link)  
