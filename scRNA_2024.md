@@ -64,9 +64,23 @@ Coming soon!
 [Module 3 Lecture Recording](https://youtu.be/KBIJXR0MPUc)  
 [Module 3 Lecture Slides](https://docs.google.com/presentation/d/1kbuNPb4M_3pZklcpJRpkPF4ULvB-DYWH/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
 
-<!-- ## Module 4
+## Module 4
 
 *<font color="#827e9c">Tallulah Andrews</font>*
 
-[Module 4 Lecture Slides]()   -->
+[Module 4 Lecture Slides](https://docs.google.com/presentation/d/1y3jYl9fZyU7YPu2B_JFJITJyBsprqBf_/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+## Module 5
+
+*<font color="#827e9c">Tallulah Andrews</font>*
+
+[Module 5 Lecture Slides](https://docs.google.com/presentation/d/1omHcfdWozurRc8Ztyhx01Z_Z9VEdjpwk/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+
+## Module 6
+
+*<font color="#827e9c">Gary Bader</font>*
+
+[Module 6 Lecture Slides](https://docs.google.com/presentation/d/1h9Fk1bmpoRCdNbcJX-D1JTiYrvVZStjK/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
+
 
