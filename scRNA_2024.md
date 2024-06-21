@@ -68,13 +68,14 @@ Coming soon!
 
 *<font color="#827e9c">Tallulah Andrews</font>*
 
-[Module 4 Lecture Slides](https://docs.google.com/presentation/d/1y3jYl9fZyU7YPu2B_JFJITJyBsprqBf_/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
+[Module 4 Lecture Recording](https://youtu.be/FdKS5imFO5w)  
+[Module 4 Lecture Slides](https://docs.google.com/presentation/d/1iaxvHCtCQshaWZX13lN2ASsDwsP0DtkN/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
 
 ## Module 5
 
 *<font color="#827e9c">Tallulah Andrews</font>*
 
-[Module 5 Lecture Slides](https://docs.google.com/presentation/d/1omHcfdWozurRc8Ztyhx01Z_Z9VEdjpwk/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
+[Module 5 Lecture Slides](https://docs.google.com/presentation/d/1y3jYl9fZyU7YPu2B_JFJITJyBsprqBf_/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
 
 
 ## Module 6
