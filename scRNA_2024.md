@@ -93,6 +93,7 @@ Please note that all Rmd files are download links. HTML answer files will not re
 
 *<font color="#827e9c">Gary Bader</font>*
 
+[Module 6 Lecture Recording](https://youtu.be/bS4Pcv97ZHo)  
 [Module 6 Lecture Slides](https://docs.google.com/presentation/d/1h9Fk1bmpoRCdNbcJX-D1JTiYrvVZStjK/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
 
 [Module 6 Lab Rmd - Empty](https://drive.google.com/file/d/13BrOPpg84SjunNhV15ozBJHhh_VaJ83m/view?usp=drive_link) | [Answers (HTML)](https://drive.google.com/file/d/1SV9mP3jTukrc7Fqr6gBHT-kZU0nPQQxr/view?usp=drive_link)  
