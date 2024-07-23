@@ -98,4 +98,19 @@ Please note that all Rmd files are download links. HTML answer files will not re
 
 [Module 6 Lab Rmd - Empty](https://drive.google.com/file/d/13BrOPpg84SjunNhV15ozBJHhh_VaJ83m/view?usp=drive_link) | [Answers (HTML)](https://drive.google.com/file/d/1SV9mP3jTukrc7Fqr6gBHT-kZU0nPQQxr/view?usp=drive_link)  
 
+# Post-Workshop Materials <a id="postworkshop"></a>
+## CourseData
+Note that some of these files are quite large. If you have issues downloading them, try copying the link address, opening a new blank tab, and entering the URL into the new tab's address bar. If that fails, contact us at support@bioinformatics.ca.
+- [CourseData](https://hpc4health.ca/cbw/2024/scRNA/scRNA.tar.gz)
+
+## AMI
+We have made our AWS AMI (Amazon Machine Image) publicly available. To launch your own instance, follow the instructions provided by Amazon on [how to launch an EC2 instance from a custom Amazon Machine Image](https://repost.aws/knowledge-center/launch-instance-custom-ami). Please note that you will need an AWS account to proceed, and that you will need to upload the CourseData files yourself.
+
+Here are the details of the AMI:
+- AWS Region: us-east-1 (N. Virgina)
+- AMI type: public image
+- AMI name: CBW_scRNA_240619
+- AMI ID: ami-030071a6d882d1373
+
+If you want to create and activate a new AWS account, please follow the [instructions](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) provided by Amazon.
 
